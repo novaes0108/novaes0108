@@ -37,11 +37,6 @@ Gosto de ver a tecnologia transformando ideias em soluções reais. Na FIAP, est
 
 ---
 
-🛠️ Ferramentas
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" /> </div>
-📊 GitHub em números
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-<div align="center">
 📫 Vamos conversar?
 
 <a href="https://www.linkedin.com/in/matheus-da-costa-novaes-teixeira-200673310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/tteuzz__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:matheus.cnteixeira@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
